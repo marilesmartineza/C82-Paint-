@@ -8,7 +8,8 @@
   }
   h1
   {
-      color: red; 
+      font-family: 'DynaPuff';
+      color: black; 
       font-size: 40px;
   }
   #myCanvas 
@@ -30,4 +31,7 @@
   {
     margin-right: 20px;
   }
+#text{
+    font-family: 'DynaPuff';
+}
   
